@@ -2,5 +2,5 @@ matplotlib==3.5.2
 matplotlib-inline==0.1.3 
 pandas==1.4.3
 plotly==5.12.0
-plolty-express==0.4.1
+plotly-express==0.4.1
 streamlit==1.17.0
